@@ -19,3 +19,12 @@
 .chart {
     padding-top: 20px;
 }
+
+h3 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+body {
+    width: 80%;
+}
